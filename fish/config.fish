@@ -14,6 +14,7 @@ alias dr "sudo dnf remove"
 alias bi "bun install"
 alias br "bun run"
 alias c "clear"
+alias ui "cd ~/projects/ui"
 
 # Vpn
 alias pge "sudo openvpn --config ~/apps/vpn/georgia-aes-256-cbc-udp-dns.ovpn --auth-user-pass ~/apps/vpn/pass.txt"
